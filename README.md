@@ -18,7 +18,7 @@ A simple multithreaded Python script to scan TCP ports on a target host. **Pleas
 
 1. Clone or download this repository:
     ```bash
-    git clone https://github.com/your-username/python-port-scanner.git
+    git clone https://github.com/okaforoa/python-port-scanner-tool.git
     ```
 2. Navigate to the project directory:
     ```bash
